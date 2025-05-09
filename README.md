@@ -34,8 +34,8 @@
   <!-- <div>&nbsp;</div> -->
   
   <div>
-    <img width="500" height="137px" src="https://github-readme-stats.vercel.app/api?username=cjsen&hide_title=true&hide_border=true&show_icons=true&layout=compact&theme=buefy"/>
-    <img width="500" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjsen&hide_title=true&hide_border=true&show_icons=true&layout=compact&theme=buefy"/>
+    <img style="width: 45%;" height="137px" src="https://github-readme-stats.vercel.app/api?username=cjsen&hide_title=true&hide_border=true&show_icons=true&layout=compact&theme=github_dark"/>
+    <img style="width: 45%;" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjsen&hide_title=true&hide_border=true&show_icons=true&layout=compact&theme=github_dark"/>
   </div>
 </div>
 
